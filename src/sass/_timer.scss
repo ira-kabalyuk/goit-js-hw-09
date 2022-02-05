@@ -1,0 +1,18 @@
+.timer {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: start;
+  grid-gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.value {
+  display: block;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.label {
+  display: block;
+  font-size: 16px;
+}
